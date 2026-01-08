@@ -1,7 +1,7 @@
 # **ESP32-AI Assistant**
 
 **Author:** Sethun Vithanawasam  
-**Version:** 1.0
+**Version:** 1.0  
 **Platform:** ESP32  
 **Language:** Arduino / C++  
 
@@ -104,6 +104,18 @@ The assistant integrates with three main APIs. Each requires an API key:
 4. Connect your ESP32 board via USB, select the correct board and port, and upload the code.  
 5. Open the Serial Monitor at 115200 baud. Wait for the welcome message.  
 6. Start interacting with the assistant using commands or natural language.  
+
+---
+
+## **Demo Screenshots**
+
+### ESP32-AI Boot Sequence
+![ESP32 Boot Screenshot](boot.png)  
+*ESP32 initializing SPIFFS, WiFi, weather, and time modules.*
+
+### AI Chat Interaction
+![ESP32 AI Chat Screenshot](AiHelloresponse.png)  
+*Serial Monitor showing AI assistant responding to user input ("Hello").*
 
 ---
 
