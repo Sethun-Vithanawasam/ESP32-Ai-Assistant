@@ -111,11 +111,11 @@ The assistant integrates with three main APIs. Each requires an API key:
 
 ### ESP32-AI Boot Sequence
 ![ESP32 Boot Screenshot](Extra/boot.png)  
-*ESP32 initializing SPIFFS, WiFi, weather, and time modules.*
+### ESP32 initializing SPIFFS, WiFi, weather, and time module.
 
 ### AI Chat Interaction
 ![ESP32 AI Chat Screenshot](Extra/AiHelloresponse.png)  
-*Serial Monitor showing AI assistant responding to user input ("Hello").*
+### Serial Monitor showing AI assistant responding to user input ("Hello").
 
 ---
 
